@@ -1,0 +1,34 @@
+temp.py
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+/.venv
+venv/
+ENV/
+
+# Dependency directories
+venv/
+venv*/
+*/venv/
+*/venv*/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# IDEs and editors
+.idea/
+.vscode/
+temp1.py
